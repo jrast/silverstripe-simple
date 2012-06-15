@@ -1,1 +1,0 @@
-<script src="http://gist.github.com/{$GistID}.js<% if File %>?file=$File<% end_if %>"></script>
